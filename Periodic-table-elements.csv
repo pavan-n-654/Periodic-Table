@@ -1,0 +1,120 @@
+Atomic-Number,Element,Symbol,Atomic-Weight,CPK-color-hex-format,Period,Group,Phase,bonding-type,Most-Stable-Crystal,Type,Ionic-Radius,Atomic-Radius,EA-kJ/mol,Electronegativity,First-Ionization-kJ/mol,Density,Melting-Point-(K),Boiling-Point-(K),Isotopes,Discoverer,oxidation-states,Year-Discovery,Specific-Heat-Capacity,Electron-Configuration
+1,Hydrogen,H,1.00794,FFFFFF,1,1,gas,diatomic,No-info,Nonmetal,0.012,0.79,-73,2.2,1312,0.00008988,14.175,20.28,3,Cavendish,-1,1766,14.304,1s1
+2,Helium,He,4.002602,D9FFFF,1,18,gas,atomic,No-info,Noble Gas,No-info,0.49,0,No-info,2372,0.0001785,No-info,4.22,5,Janssen,No-info,1868,5.193,1s2
+3,Lithium,Li,6.941,CC80FF,2,1,solid,metallic,bcc,Alkali Metal,0.76,2.1,-60,0.98,520,0.534,453.85,1615,5,Arfvedson,1,1817,3.582,[He] 2s1
+4,Beryllium,Be,9.012182,C2FF00,2,2,solid,metallic,hex,Alkaline Earth Metal,0.35,1.4,0,1.57,900,1.85,1560.15,2742,6,Vaulquelin,2,1798,1.825,[He] 2s2
+5,Boron,B,10.811,FFB5B5,2,13,solid,covalent network,rho,Metalloid,0.23,1.2,-27,2.04,801,2.34,2573.15,4200,6,Gay-Lussac,01-02-2003,1808,1.026,[He] 2s2 2p1
+6,Carbon,C,12.0107,909090,2,14,solid,covalent network,hex,Nonmetal,No-info,0.91,-154,2.55,1087,2.267,3948.15,4300,7,Prehistoric,0.027777778,No-info,0.709,[He] 2s2 2p2
+7,Nitrogen,N,14.0067,3050F8,2,15,gas,diatomic,No-info,Nonmetal,0.13,0.75,-7,3.04,1402,0.0012506,63.29,77.36,8,Rutherford,-0.0125,1772,1.04,[He] 2s2 2p3
+8,Oxygen,O,15.9994,FF0D0D,2,16,gas,diatomic,No-info,Nonmetal,1.4,0.65,-141,3.44,1314,0.001429,50.5,90.2,8,Priestley/Scheele,1,1774,0.918,[He] 2s2 2p4
+9,Fluorine,F,18.9984032,9.00E+51,2,17,gas,atomic,No-info,Halogen,1.3,0.57,-328,3.98,1681,0.001696,53.63,85.03,6,Moissan,-1,1886,0.824,[He] 2s2 2p5
+10,Neon,Ne,20.1797,B3E3F5,2,18,gas,atomic,No-info,Noble Gas,No-info,0.51,0,No-info,2081,0.0008999,24.703,27.07,8,Ramsay and Travers,No-info,1898,1.03,[He] 2s2 2p6
+11,Sodium,Na,22.98976928,AB5CF2,3,1,solid,metallic,bcc,Alkali Metal,1,2.2,-53,0.93,496,0.971,371.15,1156,7,Davy,-1,1807,1.228,[Ne] 3s1
+12,Magnesium,Mg,24.305,8AFF00,3,2,solid,metallic,hex,Alkaline Earth Metal,0.72,1.7,0,1.31,738,1.738,923.15,1363,8,Black,01-Feb,1755,1.023,[Ne] 3s2
+13,Aluminum,Al,26.9815386,BFA6A6,3,13,solid,metallic,fcc,Metal,0.54,1.8,-43,1.61,578,2.698,933.4,2792,8,Wohler,01-Mar,1827,0.897,[Ne] 3s2 3p1
+14,Silicon,Si,28.0855,F0C8A0,3,14,solid,metallic,fcc,Metalloid,0.4,1.5,-134,1.9,787,2.3296,1683.15,3538,8,Berzelius,0.027777778,1824,0.705,[Ne] 3s2 3p2
+15,Phosphorus,P,30.973762,FF8000,3,15,solid,covalent network,cub,Nonmetal,0.38,1.2,-72,2.19,1012,1.82,317.25,553,7,BranBrand,-0.0125,1669,0.769,[Ne] 3s2 3p3
+16,Sulfur,S,32.065,FFFF30,3,16,solid,covalent network,orth,Nonmetal,0.37,1.1,-200,2.58,1000,2.067,388.51,717.8,10,Prehistoric,0.002777778,No-info,0.71,[Ne] 3s2 3p4
+17,Chlorine,Cl,35.453,1FF01F,3,17,gas,covalent network,No-info,Halogen,1.8,0.97,-349,3.16,1251,0.003214,172.31,239.11,11,Scheele,-0.000198413,1774,0.479,[Ne] 3s2 3p5
+18,Argon,Ar,39.948,80D1E3,3,18,gas,atomic,No-info,Noble Gas,No-info,0.88,0,No-info,1521,0.0017837,83.96,87.3,8,Rayleigh and Ramsay,No-info,1894,0.52,[Ne] 3s2 3p6
+19,Potassium,K,39.0983,8F40D4,4,1,solid,metallic,bcc,Alkali Metal,1.4,2.8,-48,0.82,419,0.862,336.5,1032,10,Davy,1,1807,0.757,[Ar] 4s1
+20,Calcium,Ca,40.078,3DFF00,4,2,solid,metallic,fcc,Alkaline Earth Metal,0.99,2.2,-2,1,590,1.54,1112.15,1757,14,Davy,2,1808,0.647,[Ar] 4s2
+21,Scandium,Sc,44.955912,E6E6E6,4,3,solid,metallic,hex,Transition Metal,0.75,2.1,-18,1.36,633,2.989,1812.15,3109,15,Nilson,01-02-2003,1878,0.568,[Ar] 3d1 4s2
+22,Titanium,Ti,47.867,BFC2C7,4,4,solid,metallic,hex,Transition Metal,0.61,2,-8,1.54,659,4.54,1933.15,3560,9,Gregor,-0.041666667,1791,0.523,[Ar] 3d2 4s2
+23,Vanadium,V,50.9415,A6A6AB,4,5,solid,metallic,bcc,Transition Metal,0.59,1.9,-51,1.63,651,6.11,2175.15,3680,9,   del Rio,-0.041666667,1801,0.489,[Ar] 3d3 4s2
+24,Chromium,Cr,51.9961,8A99C7,4,6,solid,metallic,bcc,Transition Metal,0.52,1.9,-64,1.66,653,7.15,2130.15,2944,9,Vauquelin,0.002777778,1797,0.449,[Ar] 3d5 4s1
+25,Manganese,Mn,54.938045,9C7AC7,4,7,solid,metallic,bcc,Transition Metal,0.46,1.8,0,1.55,717,7.44,1519.15,2334,11,Gahn/ Scheele,-0.000297619,1774,0.479,[Ar] 3d5 4s2
+26,Iron,Fe,55.845,E06633,4,8,solid,metallic,bcc,Transition Metal,0.65,1.7,-16,1.83,763,7.874,1808.15,3134,10,Prehistoric,0.002777778,No-info,0.449,[Ar] 3d6 4s2
+27,Cobalt,Co,58.933195,F090A0,4,9,solid,metallic,hex,Transition Metal,0.75,1.7,-64,1.88,760,8.86,1768.15,3200,14,Brandt,-0.008333333,1735,0.421,[Ar] 3d7 4s2
+28,Nickel,Ni,58.6934,50D050,4,10,solid,metallic,fcc,Transition Metal,0.69,1.6,-112,1.91,737,8.912,1726.15,3186,11,Cronstedt,-0.041666667,1751,0.444,[Ar] 3d8 4s2
+29,Copper,Cu,63.546,C88033,4,11,solid,metallic,fcc,Transition Metal,0.73,1.6,-118,1.9,746,8.96,1357.75,2835,11,Prehistoric,1/ 2/ 3/ 4,No-info,0.385,[Ar] 3d10 4s1
+30,Zinc,Zn,65.38,7D80B0,4,12,solid,metallic,hex,Transition Metal,0.74,1.5,0,1.65,906,7.134,692.88,1180,15,Prehistoric,2,No-info,0.388,[Ar] 3d10 4s2
+31,Gallium,Ga,69.723,C28F8F,4,13,solid,metallic,orth,Metal,0.62,1.8,-29,1.81,579,5.907,302.91,2477,14,de Boisbaudran,01-02-2003,1875,0.371,[Ar] 3d10 4s2 4p1
+32,Germanium,Ge,72.64,668F8F,4,14,solid,metallic,fcc,Metalloid,0.53,1.5,-119,2.01,762,5.323,1211.45,3106,17,Winkler,-0.166666667,1886,0.32,[Ar] 3d10 4s2 4p2
+33,Arsenic,As,74.9216,BD80E3,4,15,solid,metallic,rho,Metalloid,0.58,1.3,-78,2.18,947,5.776,1090.15,887,14,Albertus Magnus,-0.1,1250,0.329,[Ar] 3d10 4s2 4p3
+34,Selenium,Se,78.96,FFA100,4,16,solid,metallic,hex,Nonmetal,0.5,1.2,-195,2.55,941,4.809,494.15,958,20,Berzelius,-0.041666667,1817,0.321,[Ar] 3d10 4s2 4p4
+35,Bromine,Br,79.904,A62929,4,17,liq,covalent network,No-info,Halogen,2,1.1,-325,2.96,1140,3.122,266.05,332,19,Balard,-0.002380952,1826,0.474,[Ar] 3d10 4s2 4p5
+36,Krypton,Kr,83.798,5CB8D1,4,18,gas,atomic,No-info,Noble Gas,No-info,1,0,No-info,1351,0.003733,115.93,119.93,23,Ramsay and Travers,2,1898,0.248,[Ar] 3d10 4s2 4p6
+37,Rubidium,Rb,85.4678,702EB0,5,1,solid,metallic,bcc,Alkali Metal,1.5,3,-47,0.82,403,1.532,312.79,961,20,Bunsen and Kirchoff,1,1861,0.363,[Kr] 5s1
+38,Strontium,Sr,87.62,00FF00,5,2,solid,metallic,fcc,Alkaline Earth Metal,1.1,2.5,-5,0.95,550,2.64,1042.15,1655,18,Davy,2,1808,0.301,[Kr] 5s2
+39,Yttrium,Y,88.90585,94FFFF,5,3,solid,metallic,hex,Transition Metal,0.9,2.3,-30,1.22,600,4.469,1799.15,3609,21,Gadolin,01-02-2003,1794,0.298,[Kr] 4d1 5s2
+40,Zirconium,Zr,91.224,94E0E0,5,4,solid,metallic,hex,Transition Metal,0.72,2.2,-41,1.33,640,6.506,2125.15,4682,20,Klaproth,1/ 2/ 3/ 4,1789,0.278,[Kr] 4d2 5s2
+41,Niobium,Nb,92.90638,73C2C9,5,5,solid,metallic,bcc,Transition Metal,0.69,2.1,-86,1.6,652,8.57,2741.15,5017,24,Hatchett,-0.008333333,1801,0.265,[Kr] 4d4 5s1
+42,Molybdenum,Mo,95.96,54B5B5,5,6,solid,metallic,bcc,Transition Metal,0.65,2,-72,2.16,684,10.22,2890.15,4912,20,Scheele,0.002777778,1778,0.251,[Kr] 4d5 5s1
+43,Technetium,Tc,98,3B9E9E,5,7,artificial,metallic,hex,Transition Metal,0.56,2,-53,1.9,702,11.5,2473.15,5150,23,Perrier and Segre,0.000595238,1937,No-info,[Kr] 4d5 5s2
+44,Ruthenium,Ru,101.07,248F8F,5,8,solid,metallic,hex,Transition Metal,0.68,1.9,-101,2.2,710,12.37,2523.15,4423,16,Klaus,-4.96032E-05,1844,0.238,[Kr] 4d7 5s1
+45,Rhodium,Rh,102.9055,0A7D8C,5,9,solid,metallic,fcc,Transition Metal,0.68,1.8,-110,2.28,720,12.41,2239.15,3968,20,Wollaston,-0.001388889,1803,0.243,[Kr] 4d8 5s1
+46,Palladium,Pd,106.42,6985,5,10,solid,metallic,fcc,Transition Metal,0.86,1.8,-54,2.2,804,12.02,1825.15,3236,21,Wollaston,02-Apr,1803,0.244,[Kr] 4d10
+47,Silver,Ag,107.8682,C0C0C0,5,11,solid,metallic,fcc,Transition Metal,1.3,1.8,-126,1.93,731,10.501,1234.15,2435,27,Prehistoric,01-02-2003,No-info,0.235,[Kr] 4d10 5s1
+48,Cadmium,Cd,112.411,FFD98F,5,12,solid,metallic,hex,Transition Metal,0.97,1.7,0,1.69,868,8.69,594.33,1040,22,Stromeyer,2,1817,0.232,[Kr] 4d10 5s2
+49,Indium,In,114.818,A67573,5,13,solid,metallic,tet,Metal,0.8,2,-29,1.78,558,7.31,429.91,2345,34,Reich and Richter,01-02-2003,1863,0.233,[Kr] 4d10 5s2 5p1
+50,Tin,Sn,118.71,668080,5,14,solid,metallic,tet,Metal,0.69,1.7,-107,1.96,709,7.287,505.21,2875,28,Prehistoric,-0.5,No-info,0.228,[Kr] 4d10 5s2 5p2
+51,Antimony,Sb,121.76,9E63B5,5,15,solid,metallic,rho,Metalloid,0.76,1.5,-103,2.05,834,6.685,904.05,1860,29,Early historic times,-0.2,No-info,0.207,[Kr] 4d10 5s2 5p3
+52,Tellurium,Te,127.6,D47A00,5,16,solid,metallic,hex,Metalloid,0.97,1.4,-190,2.1,869,6.232,722.8,1261,29,von Reichenstein,-0.008333333,1782,0.202,[Kr] 4d10 5s2 5p4
+53,Iodine,I,126.90447,940094,5,17,solid,covalent network,orth,Halogen,2.2,1.3,-295,2.66,1008,4.93,386.65,457.4,24,Courtois,-0.00952381,1811,0.214,[Kr] 4d10 5s2 5p5
+54,Xenon,Xe,131.293,429EB0,5,18,gas,atomic,gas,Noble Gas,No-info,1.2,0,No-info,1170,0.005887,161.45,165.03,31,Ramsay and Travers,2/ 4/ 6/ 8,1898,0.158,[Kr] 4d10 5s2 5p6
+55,Cesium,Cs,132.9054519,57178F,6,1,solid,metallic,No-info,Alkali Metal,1.7,3.3,-46,0.79,376,1.873,301.7,944,22,Bunsen and Kirchoff,1,1860,0.242,[Xe] 6s1
+56,Barium,Ba,137.327,00C900,6,2,solid,metallic,bcc,Alkaline Earth Metal,1.4,2.8,-14,0.89,503,3.594,1002.15,2170,25,Davy,2,1808,0.204,[Xe] 6s2
+57,Lanthanum,La,138.90547,70D4FF,6,3,solid,metallic,hex,Lanthanide,1.1,2.7,-48,1.1,538,6.145,1193.15,3737,19,Mosander,02-Mar,1839,0.195,[Xe] 5d1 6s2
+58,Cerium,Ce,140.116,FFFFC7,6,19,solid,metallic,fcc,Lanthanide,1,2.7,-50,1.12,534,6.77,1071.15,3716,19,Berzelius,02-03-2004,1803,0.192,[Xe] 4f1 5d1 6s2
+59,Praseodymium,Pr,140.90765,D9FFC7,6,20,solid,metallic,hex,Lanthanide,1,2.7,-50,1.13,527,6.773,1204.15,3793,15,von Welsbach,02-03-2004,1885,0.193,[Xe] 4f3 6s2
+60,Neodymium,Nd,144.242,C7FFC7,6,21,solid,metallic,hex,Lanthanide,1,2.6,-50,1.14,533,7.007,1289.15,3347,16,von Welsbach,02-Mar,1885,0.19,[Xe] 4f4 6s2
+61,Promethium,Pm,145,A3FFC7,6,22,artificial,metallic,hex,Lanthanide,0.98,2.6,-50,1.13,540,7.26,1204.15,3273,14,Marinsky et al.,3,1945,No-info,[Xe] 4f5 6s2
+62,Samarium,Sm,150.36,8FFFC7,6,23,solid,metallic,hex,Lanthanide,0.96,2.6,-50,1.17,545,7.52,1345.15,2067,17,Boisbaudran,02-Mar,1879,0.197,[Xe] 4f6 6s2
+63,Europium,Eu,151.964,61FFC7,6,24,solid,metallic,bcc,Lanthanide,0.95,2.6,-50,1.2,547,5.243,1095.15,1802,21,Demarcay,02-Mar,1901,0.182,[Xe] 4f7 6s2
+64,Gadolinium,Gd,157.25,45FFC7,6,25,solid,metallic,hex,Lanthanide,0.94,2.5,-50,1.2,593,7.895,1585.15,3546,17,de Marignac,01-02-2003,1880,0.236,[Xe] 4f7 5d1 6s2
+65,Terbium,Tb,158.92535,30FFC7,6,26,solid,metallic,hex,Lanthanide,0.92,2.5,-50,1.2,566,8.229,1630.15,3503,24,Mosander,01-03-2004,1843,0.182,[Xe] 4f9 6s2
+66,Dysprosium,Dy,162.5,1FFFC7,6,27,solid,metallic,hex,Lanthanide,0.91,2.5,-50,1.22,573,8.55,1680.15,2840,21,de Boisbaudran,02-Mar,1886,0.17,[Xe] 4f10 6s2
+67,Holmium,Ho,164.93032,00FF9C,6,28,solid,metallic,hex,Lanthanide,0.9,2.5,-50,1.23,581,8.795,1743.15,2993,29,Delafontaine and Soret,3,1878,0.165,[Xe] 4f11 6s2
+68,Erbium,Er,167.259,0.00E+00,6,29,solid,metallic,hex,Lanthanide,0.88,2.5,-50,1.24,589,9.066,1795.15,3503,16,Mosander,3,1843,0.168,[Xe] 4f12 6s2
+69,Thulium,Tm,168.93421,00D452,6,30,solid,metallic,hex,Lanthanide,0.87,2.4,-50,1.25,597,9.321,1818.15,2223,18,Cleve,02-Mar,1879,0.16,[Xe] 4f13 6s2
+70,Ytterbium,Yb,173.054,00BF38,6,31,solid,metallic,fcc,Lanthanide,0.86,2.4,-50,1.1,603,6.965,1097.15,1469,16,Marignac,02-Mar,1878,0.155,[Xe] 4f14 6s2
+71,Lutetium,Lu,174.9668,00AB24,6,32,solid,metallic,hex,Lanthanide,0.85,2.3,-50,1.27,524,9.84,1936.15,3675,22,Urbain/ von Welsbach,3,1907,0.154,[Xe] 4f14 5d1 6s2
+72,Hafnium,Hf,178.49,4DC2FF,6,4,solid,metallic,hex,Transition Metal,0.71,2.2,0,1.3,659,13.31,2500.15,4876,17,Coster and von Hevesy,02-03-2004,1923,0.144,[Xe] 4f14 5d2 6s2
+73,Tantalum,Ta,180.94788,4DA6FF,6,5,solid,metallic,bcc,Transition Metal,0.64,2.1,-31,1.5,761,16.654,3269.15,5731,19,Ekeberg,-0.008333333,1801,0.14,[Xe] 4f14 5d3 6s2
+74,Wolfram,W,183.84,2194D6,6,6,solid,metallic,bcc,Transition Metal,0.62,2,-79,2.36,770,19.25,3680.15,5828,22,J. and F. d'Elhuyar,0.002777778,1783,0.132,[Xe] 4f14 5d4 6s2
+75,Rhenium,Re,186.207,267DAB,6,7,solid,metallic,hex,Transition Metal,0.56,2,-15,1.9,760,21.02,3453.15,5869,21,Noddack  Berg  and Tacke,0.000595238,1925,0.137,[Xe] 4f14 5d5 6s2
+76,Osmium,Os,190.23,266696,6,8,solid,metallic,hex,Transition Metal,0.63,1.9,-106,2.2,840,22.61,3300.15,5285,19,Tennant,4.96032E-05,1803,0.13,[Xe] 4f14 5d6 6s2
+77,Iridium,Ir,192.217,175487,6,9,solid,metallic,fcc,Transition Metal,0.63,1.9,-151,2.2,880,22.56,2716.15,4701,25,Tennant,0.004166667,1804,0.131,[Xe] 4f14 5d7 6s2
+78,Platinum,Pt,195.084,D0D0E0,6,10,solid,metallic,fcc,Transition Metal,0.63,1.8,-205,2.28,870,21.46,2045.15,4098,32,Ulloa/Wood,2/ 4/ 5/ 6,1735,0.133,[Xe] 4f14 5d9 6s1
+79,Gold,Au,196.966569,FFD123,6,11,solid,metallic,fcc,Transition Metal,0.85,1.8,-223,2.54,890,19.282,1337.73,3129,21,Prehistoric,-0.033333333,No-info,0.129,[Xe] 4f14 5d10 6s1
+80,Mercury,Hg,200.59,B8B8D0,6,12,liq,metallic,No-info,Transition Metal,1,1.8,0,2,1007,13.5336,234.43,630,26,Prehistoric,01-02-2004,No-info,0.14,[Xe] 4f14 5d10 6s2
+81,Thallium,Tl,204.3833,A6544D,6,13,solid,metallic,hex,Metal,1.5,2.1,-19,2.04,589,11.85,577.15,1746,28,Crookes,01-Mar,1861,0.129,[Xe] 4f14 5d10 6s2 6p1
+82,Lead,Pb,207.2,575961,6,14,solid,metallic,fcc,Metal,1.2,1.8,-35,2.33,716,11.342,600.75,2022,29,Prehistoric,-0.5,No-info,0.129,[Xe] 4f14 5d10 6s2 6p2
+83,Bismuth,Bi,208.9804,9E4FB5,6,15,solid,metallic,rho,Metal,1,1.6,-91,2.02,703,9.807,544.67,1837,19,Geoffroy the Younger,-0.2,1753,0.122,[Xe] 4f14 5d10 6s2 6p3
+84,Polonium,Po,210,AB5C00,6,16,solid,metallic,cub,Metalloid,2.3,1.5,-183,2,812,9.32,527.15,1235,34,Curie,-0.041666667,1898,No-info,[Xe] 4f14 5d10 6s2 6p4
+85,Astatine,At,210,754F45,6,17,solid,covalent network,,Noble Gas,No-info,1.4,-270,2.2,920,7,575.15,610,21,Corson et al.,-0.066666667,1940,No-info,[Xe] 4f14 5d10 6s2 6p5
+86,Radon,Rn,222,428296,6,18,gas,atomic,No-info,Alkali Metal,No-info,1.3,No-info,No-info,1037,0.00973,202.15,211.3,20,Dorn,2,1900,0.094,[Xe] 4f14 5d10 6s2 6p6
+87,Francium,Fr,223,420066,7,1,solid,metallic,bcc,Alkaline Earth Metal,1.8,No-info,No-info,0.7,380,1.87,300.15,950,21,Perey,1,1939,No-info,[Rn] 7s1
+88,Radium,Ra,226,007D00,7,2,solid,metallic,bcc,Actinide,1.4,No-info,No-info,0.9,509,5.5,973.15,2010,15,Pierre and Marie Curie,2,1898,No-info,[Rn] 7s2
+89,Actinium,Ac,227,70ABFA,7,3,solid,metallic,fcc,Actinide,1.1,No-info,No-info,1.1,499,10.07,1323.15,3471,11,Debierne/Giesel,3,1899,0.12,[Rn] 6d1 7s2
+90,Thorium,Th,232.03806,00BAFF,7,19,solid,metallic,fcc,Actinide,0.97,No-info,No-info,1.3,587,11.72,2028.15,5061,12,Berzelius,02-03-2004,1828,0.113,[Rn] 6d2 7s2
+91,Protactinium,Pa,231.03588,00A1FF,7,20,solid,metallic,orth,Actinide,0.78,No-info,No-info,1.5,568,15.37,1873.15,4300,14,Hahn and Meitner,03-04-2005,1917,No-info,[Rn] 5f2 6d1 7s2
+92,Uranium,U,238.02891,008FFF,7,21,solid,metallic,orth,Actinide,0.52,No-info,No-info,1.38,598,18.95,1405.15,4404,15,Peligot,3/ 4/ 5/ 6,1841,0.116,[Rn] 5f3 6d1 7s2
+93,Neptunium,Np,237,0080FF,7,22,artificial,metallic,orth,Actinide,0.75,No-info,No-info,1.36,605,20.45,913.15,4273,153,McMillan and Abelson,3/ 4/ 5/ 6/ 7,1940,No-info,[Rn] 5f4 6d1 7s2
+94,Plutonium,Pu,244,006BFF,7,23,artificial,metallic,mno,Actinide,0.89,No-info,No-info,1.28,585,19.84,913.15,3501,163,Seaborg et al.,3/ 4/ 5/ 6/ 7,1940,No-info,[Rn] 5f6 7s2
+95,Americium,Am,243,545CF2,7,24,artificial,metallic,hex,Actinide,0.98,No-info,No-info,1.3,578,13.69,1267.15,2880,133,Seaborg et al.,2/ 3/ 4/ 5/ 6,1944,No-info,[Rn] 5f7 7s2
+96,Curium,Cm,247,785CE3,7,25,artificial,metallic,hex,Actinide,0.97,No-info,No-info,1.3,581,13.51,1340.15,3383,133,Seaborg et al.,03-Apr,1944,No-info,No-info
+97,Berkelium,Bk,247,8A4FE3,7,26,artificial,metallic,hex,Actinide,0.95,No-info,No-info,1.3,601,14.79,1259.15,983,83,Seaborg et al.,03-Apr,1949,No-info,No-info
+98,Californium,Cf,251,A136D4,7,27,artificial,metallic,hex,Actinide,0.93,No-info,No-info,1.3,608,15.1,1925.15,1173,123,Seaborg et al.,02-03-2004,1950,No-info,No-info
+99,Einsteinium,Es,252,B31FD4,7,28,artificial,No-info,hex,Actinide,No-info,No-info,No-info,1.3,619,13.5,1133.15,No-info,123,Ghiorso et al.,02-Mar,1952,No-info,No-info
+100,Fermium,Fm,257,B31FBA,7,29,artificial,No-info,No-info,Actinide,No-info,No-info,No-info,1.3,627,No-info,No-info,No-info,103,Ghiorso et al.,02-Mar,1953,No-info,No-info
+101,Mendelevium,Md,258,B30DA6,7,30,artificial,No-info,No-info,Actinide,No-info,No-info,No-info,1.3,635,No-info,No-info,No-info,33,Ghiorso et al.,02-Mar,1955,No-info,No-info
+102,Nobelium,No,259,BD0D87,7,31,artificial,No-info,No-info,Actinide,No-info,No-info,No-info,1.3,642,No-info,No-info,No-info,73,Ghiorso et al.,02-Mar,1958,No-info,No-info
+103,Lawrencium,Lr,262,C70066,7,32,artificial,No-info,No-info,Actinide,No-info,No-info,No-info,No-info,No-info,No-info,No-info,No-info,203,Ghiorso et al.,3,1961,No-info,No-info
+104,Rutherfordium,Rf,261,CC0059,7,4,artificial,No-info,No-info,Transactinide,No-info,No-info,No-info,No-info,No-info,18.1,No-info,No-info,No-info,Ghiorso et al.,4,1969,No-info,No-info
+105,Dubnium,Db,262,D1004F,7,5,artificial,No-info,No-info,Transactinide,No-info,No-info,No-info,No-info,No-info,39,No-info,No-info,No-info,Ghiorso et al.,No-info,1970,No-info,No-info
+106,Seaborgium,Sg,266,D90045,7,6,artificial,No-info,No-info,Transactinide,No-info,No-info,No-info,No-info,No-info,35,No-info,No-info,No-info,Ghiorso et al.,No-info,1974,No-info,No-info
+107,Bohrium,Bh,264,E00038,7,7,artificial,No-info,No-info,Transactinide,No-info,No-info,No-info,No-info,No-info,37,No-info,No-info,No-info,Armbruster and Munzenberg,No-info,1981,No-info,No-info
+108,Hassium,Hs,267,E6002E,7,8,artificial,No-info,No-info,Transactinide,No-info,No-info,No-info,No-info,No-info,41,No-info,No-info,No-info,Armbruster and Munzenberg,No-info,1983,No-info,No-info
+109,Meitnerium,Mt,268,EB0026,7,9,artificial,No-info,No-info,Transactinide,No-info,No-info,No-info,No-info,No-info,35,No-info,No-info,No-info,GSI/ Darmstadt/ West Germany,No-info,1982,No-info,No-info
+110,Darmstadtium,Ds,271,No-info,7,10,artificial,No-info,No-info,Transactinide,No-info,No-info,No-info,No-info,No-info,No-info,No-info,No-info,No-info,No-info,No-info,No-info,No-info,No-info
+111,Roentgenium,Rg,272,No-info,7,11,artificial,No-info,No-info,Transactinide,No-info,No-info,No-info,No-info,No-info,No-info,No-info,No-info,No-info,No-info,No-info,No-info,No-info,No-info
+112,Copernicium,Cn,285,No-info,7,12,artificial,No-info,No-info,Transactinide,No-info,No-info,No-info,No-info,No-info,No-info,No-info,No-info,No-info,No-info,No-info,No-info,No-info,No-info
+113,Ununtrium,Uut,284,No-info,7,13,artificial,No-info,No-info,No-info,No-info,No-info,No-info,No-info,No-info,No-info,No-info,No-info,No-info,No-info,No-info,No-info,No-info,No-info
+114,Ununquadium,Uuq,289,No-info,7,14,artificial,No-info,No-info,Transactinide,No-info,No-info,No-info,No-info,No-info,No-info,No-info,No-info,No-info,No-info,No-info,No-info,No-info,No-info
+115,Ununpentium,Uup,288,No-info,7,15,artificial,No-info,No-info,No-info,No-info,No-info,No-info,No-info,No-info,No-info,No-info,No-info,No-info,No-info,No-info,No-info,No-info,No-info
+116,Ununhexium,Uuh,292,No-info,7,16,artificial,No-info,No-info,Transactinide,No-info,No-info,No-info,No-info,No-info,No-info,No-info,No-info,No-info,No-info,No-info,No-info,No-info,No-info
+117,Ununseptium,Uus,295,No-info,7,17,artificial,No-info,No-info,No-info,No-info,No-info,No-info,No-info,No-info,No-info,No-info,No-info,No-info,No-info,No-info,No-info,No-info,No-info
+118,Ununoctium,Uuo,294,No-info,7,18,artificial,No-info,No-info,Noble Gas,No-info,No-info,No-info,No-info,No-info,No-info,No-info,No-info,No-info,No-info,No-info,No-info,No-info,No-info
+119,UnUnnanoium,Uun,250,)x4834,7,18,gas,covalent,bcc,non-metal,Noinfop,no,no,no,non,no,no,no,no,non,no,no,no,non
